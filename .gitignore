@@ -1,0 +1,6 @@
+*.apk
+*.exe
+*.msi
+*.zip
+.DS_Store
+Thumbs.db
