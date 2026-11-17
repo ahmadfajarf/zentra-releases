@@ -46,7 +46,3 @@ All official release binaries are hosted on **[GitHub Releases](https://github.c
 ### Windows (`Zentra-Music-1.1.0-nsis.exe` / `Zentra-Music-1.1.0-portable.exe`)
 - Choose **`Zentra-Music-1.1.0-nsis.exe`** for a standard Start Menu & desktop installation, or **`Zentra-Music-1.1.0-portable.exe`** to run directly with zero installation.
 - **Windows SmartScreen Notice:** Because Zentra Music is an independent, self-published release without a commercial EV code-signing certificate, Windows Defender SmartScreen may display *"Windows protected your PC"* on first launch. Click **"More info"** -> **"Run anyway"** to launch safely.
-
-<div align="center">
-
-</div>
