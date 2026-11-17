@@ -47,16 +47,6 @@ All official release binaries are hosted on **[GitHub Releases](https://github.c
 - Choose **`Zentra-Music-1.1.0-nsis.exe`** for a standard Start Menu & desktop installation, or **`Zentra-Music-1.1.0-portable.exe`** to run directly with zero installation.
 - **Windows SmartScreen Notice:** Because Zentra Music is an independent, self-published release without a commercial EV code-signing certificate, Windows Defender SmartScreen may display *"Windows protected your PC"* on first launch. Click **"More info"** -> **"Run anyway"** to launch safely.
 
----
-
-## Support Zentra Music (Official QRIS)
-
-Zentra Music is built with passion and kept **100% free and ad-free** for everyone. If you enjoy using Zentra Music on Android or Windows, your support helps keep development fast and streams running smoothly.
-
-Works with **BCA, Mandiri, BRI, BNI, DANA, GoPay, OVO, ShopeePay**, and all Indonesian banks & QRIS-compatible e-wallets:
-
 <div align="center">
-
-![Zentra Official QRIS](assets/qris_payment.jpg)
 
 </div>
