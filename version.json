@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.7.1",
-  "versionCode": 38,
-  "apkName": "Zentra-v2.7.1-stable.apk",
+  "latestVersion": "2.7.2",
+  "versionCode": 39,
+  "apkName": "Zentra-v2.7.2-stable.apk",
   "apkSize": 5851360,
-  "sha256": "4321a4321c76522c8cdf89c4f1994060df3ab31c371d6f8381a811466c181d96",
-  "downloadUrl": "https://github.com/ahmadfajarf/zentra-releases/releases/download/v2.7.1/Zentra-v2.7.1-stable.apk",
-  "releaseNotes": "- In-App Auto-Update Checker & Direct APK Installer\n- 3-Tier Adaptive Cold-Start Fast-Path (<800ms)\n- Batched WebView Cipher IPC & Instant Last-Session Resume\n- Unified 1.0f Punchy Mastering DSP Headroom for Songs & Music Videos"
+  "sha256": "e8802b0ae9e4b4651acf1c1f15bf9f84d4b5bc5bf667edf2b555c33020b456b7",
+  "downloadUrl": "https://github.com/ahmadfajarf/zentra-releases/releases/download/v2.7.2/Zentra-v2.7.2-stable.apk",
+  "releaseNotes": "- Upgraded FullPlayerSheet visual architecture with zero-dead-space layout\n- Cropped baked-in 4:3 letterbox black bars on YouTube Music Video thumbnails in Song mode\n- Added live Audio/Video Fidelity & Mastering DSP pill with pulsing status dot\n- Added 1-tap spring-animated Favorite Heart button & Glassmorphic 5-Action Quick-Control Dock"
 }
