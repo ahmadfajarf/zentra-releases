@@ -3,7 +3,7 @@
   "versionCode": 38,
   "apkName": "Zentra-v2.7.1-stable.apk",
   "apkSize": 5851360,
-  "sha256": "7721627a4618c847e2c00fb9fb149eba7e897d86ad0847e7ac92567ad4d57b08",
+  "sha256": "4321a4321c76522c8cdf89c4f1994060df3ab31c371d6f8381a811466c181d96",
   "downloadUrl": "https://github.com/ahmadfajarf/zentra-releases/releases/download/v2.7.1/Zentra-v2.7.1-stable.apk",
   "releaseNotes": "- In-App Auto-Update Checker & Direct APK Installer\n- 3-Tier Adaptive Cold-Start Fast-Path (<800ms)\n- Batched WebView Cipher IPC & Instant Last-Session Resume\n- Unified 1.0f Punchy Mastering DSP Headroom for Songs & Music Videos"
 }
