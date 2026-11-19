@@ -2,8 +2,8 @@
   "latestVersion": "2.7.4",
   "versionCode": 41,
   "apkName": "Zentra-v2.7.4-stable.apk",
-  "apkSize": 5851360,
-  "sha256": "7c2a4f6aad52745515ab0713c7bdba0ea5a39e9f8c7dbd20b12d31f8952a7084",
+  "apkSize": 5884100,
+  "sha256": "a4ab8816898c1b28a3c4050bfed040dfc821c907fd973ca6b09e7b6f556590c0",
   "downloadUrl": "https://github.com/ahmadfajarf/zentra-releases/releases/download/v2.7.4/Zentra-v2.7.4-stable.apk",
-  "releaseNotes": "- Borderless 4-icon MVP control row directly above SeekBar (Like, Lyrics, EQ, Download for Song; Like, CC, Quality, Download for Video) with balanced airy vertical rhythm\n- Modern translucent icon Song | Video mode switcher blending seamlessly into album gradients\n- Restored minimal transparent BottomPullUpQueueBar handle and mix title\n- Pre-cached strict title+artist 1:1 square album artwork lookup eliminating Video-to-Song double-load flicker and wrong-cover matches"
+  "releaseNotes": "- Fast multi-source parallel synced & word-level lyrics with proactive next-track prefetch\n- Buttery 60/120fps frame-interpolated lyrics scrolling, focal blur, and smooth karaoke wipe\n- Global direct-access player controls (Share, Love, Playlist, Speed, Sleep Timer, Lyrics/CC, EQ/Quality, Download)\n- Redesigned capsule scrubber, rounded transport controls, and crisp obsidian+crimson launcher icon"
 }
