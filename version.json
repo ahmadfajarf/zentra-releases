@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.7.2",
-  "versionCode": 39,
-  "apkName": "Zentra-v2.7.2-stable.apk",
+  "latestVersion": "2.7.3",
+  "versionCode": 40,
+  "apkName": "Zentra-v2.7.3-stable.apk",
   "apkSize": 5851360,
-  "sha256": "e8802b0ae9e4b4651acf1c1f15bf9f84d4b5bc5bf667edf2b555c33020b456b7",
-  "downloadUrl": "https://github.com/ahmadfajarf/zentra-releases/releases/download/v2.7.2/Zentra-v2.7.2-stable.apk",
-  "releaseNotes": "- Upgraded FullPlayerSheet visual architecture with zero-dead-space layout\n- Cropped baked-in 4:3 letterbox black bars on YouTube Music Video thumbnails in Song mode\n- Added live Audio/Video Fidelity & Mastering DSP pill with pulsing status dot\n- Added 1-tap spring-animated Favorite Heart button & Glassmorphic 5-Action Quick-Control Dock"
+  "sha256": "8d5d0bd1f879f27dd8935f5e1d80c6f6e2f09c3cd3d6cda4e1020e0a26bf9075",
+  "downloadUrl": "https://github.com/ahmadfajarf/zentra-releases/releases/download/v2.7.3/Zentra-v2.7.3-stable.apk",
+  "releaseNotes": "- Restored crisp, balanced Full Player layout with zero-duplicate MVP controls (Like, Lyrics, EQ, Save for songs; Like, CC, Quality, Save for videos)\n- Automatically resolves true 1:1 square album cover artwork in Song mode (with zero black-bar zoom fallback)\n- Polished glassmorphic bottom queue pull-up handle and removed menu duplicate chips\n- Fixed single-tap Music Video resume immediately after an in-app update"
 }
