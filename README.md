@@ -5,7 +5,7 @@
 **A next-generation, high-fidelity music & music video streaming ecosystem engineered for Android and Windows Desktop.**
 
 [![Android Release](https://img.shields.io/badge/Android-v2.7.4--stable-10B981?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ahmadfajarf/zentra-releases/releases/latest/download/Zentra-v2.7.4-stable.apk)
-[![Windows Desktop](https://img.shields.io/badge/Windows-v2.0.0%20(Rust%20%2B%20Tauri%20v2)-118EE9?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ahmadfajarf/zentra-releases/releases/latest/download/Zentra-Music-2.0.0-x64-setup.exe)
+[![Windows Desktop](https://img.shields.io/badge/Windows-v2.0.1%20(Rust%20%2B%20Tauri%20v2)-118EE9?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ahmadfajarf/zentra-releases/releases/latest/download/Zentra-Music-2.0.1-x64-setup.exe)
 [![Audio Engine](https://img.shields.io/badge/Audio-48kHz%20Opus%20%2B%20Mastering%20DSP-FF2E54?style=for-the-badge&logo=musicbrainz&logoColor=white)](#signature-mastering-sound-engine-punchy--warm-dsp-chain)
 [![Video Engine](https://img.shields.io/badge/Video-Up%20to%204K%20%2F%201080p%20HD-8B5CF6?style=for-the-badge&logo=youtube&logoColor=white)](#true-server-synced-hd4k-music-video-engine-144p--2160p)
 [![Ad-Free](https://img.shields.io/badge/Experience-100%25%20Ad--Free-059669?style=for-the-badge)](#one-click-direct-downloads)
@@ -21,8 +21,8 @@ All official release binaries are hosted directly on **[GitHub Releases](https:/
 | Platform | Edition / Package | Version | Direct Download Link | Size | SHA-256 Checksum |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Android Mobile** | Signed APK (`Android 8.0+`) | `v2.7.4-stable` | [Download `Zentra-v2.7.4-stable.apk`](https://github.com/ahmadfajarf/zentra-releases/releases/latest/download/Zentra-v2.7.4-stable.apk) | `5.58 MiB` (`5,851,360` B) | `7c2a4f6aad52745515ab0713c7bdba0ea5a39e9f8c7dbd20b12d31f8952a7084` |
-| **Windows Desktop** | NSIS Setup Installer (`Rust / Tauri v2`) | `v2.0.0` | [Download `Zentra-Music-2.0.0-x64-setup.exe`](https://github.com/ahmadfajarf/zentra-releases/releases/latest/download/Zentra-Music-2.0.0-x64-setup.exe) | `3.34 MiB` (`3,498,490` B) | `93fda0a3c737c77583828a60dbde110fd2a00e9bc3c8fdbfb631ed91936dd8f9` |
-| **Windows Desktop** | Standalone Portable (`Rust / Tauri v2`) | `v2.0.0` | [Download `Zentra-Music-2.0.0-rust-portable.exe`](https://github.com/ahmadfajarf/zentra-releases/releases/latest/download/Zentra-Music-2.0.0-rust-portable.exe) | `8.36 MiB` (`8,766,464` B) | `5cb7ca63fc1d095b043c2a2f1378b255073668744e0cd2f397112a3abf78d82d` |
+| **Windows Desktop** | NSIS Setup Installer (`Rust / Tauri v2`) | `v2.0.1` | [Download `Zentra-Music-2.0.1-x64-setup.exe`](https://github.com/ahmadfajarf/zentra-releases/releases/latest/download/Zentra-Music-2.0.1-x64-setup.exe) | `3.36 MiB` (`3,525,722` B) | `6e352ad481bc8e3abc8a2eb178c6e1df7e9420dbed7bcf636250946107cc998d` |
+| **Windows Desktop** | Standalone Portable (`Rust / Tauri v2`) | `v2.0.1` | [Download `Zentra-Music-2.0.1-rust-portable.exe`](https://github.com/ahmadfajarf/zentra-releases/releases/latest/download/Zentra-Music-2.0.1-rust-portable.exe) | `8.43 MiB` (`8,843,776` B) | `b87b269353d6f451b2748174a682ecea44803d246d7abd832af91da67dbce268` |
 
 ---
 
@@ -53,7 +53,7 @@ All official release binaries are hosted directly on **[GitHub Releases](https:/
 - Endless adaptive radio queues, sleep timer, library backup/restore, and **offline song downloads**.
 
 ### Ultra-Lightweight Rust + Tauri v2 Desktop Core (Windows)
-- Rebuilt from the ground up in **Rust + Tauri v2** (replacing Electron) for near-instant cold launch, minimal RAM usage, and ~90% smaller binaries (`3.34 MiB` installer / `8.36 MiB` portable).
+- Rebuilt from the ground up in **Rust + Tauri v2** (replacing Electron) for near-instant cold launch, minimal RAM usage, and ~90% smaller binaries (`3.36 MiB` installer / `8.43 MiB` portable).
 - Native **Windows System Media Transport Controls (`SMTC`)**, background system tray integration, local Rust HTTP Range/CORS media proxy, and QuickJS embedded cipher engine.
 
 ---
@@ -71,11 +71,11 @@ All official release binaries are hosted directly on **[GitHub Releases](https:/
 </details>
 
 <details open>
-<summary><strong>Windows 10 / 11 64-bit (<code>Zentra-Music-2.0.0-x64-setup.exe</code> / <code>Zentra-Music-2.0.0-rust-portable.exe</code>)</strong></summary>
+<summary><strong>Windows 10 / 11 64-bit (<code>Zentra-Music-2.0.1-x64-setup.exe</code> / <code>Zentra-Music-2.0.1-rust-portable.exe</code>)</strong></summary>
 
 - **Choose your edition:**
-  - **`Zentra-Music-2.0.0-x64-setup.exe`** — Standard Windows installer with Start Menu & uninstall integration.
-  - **`Zentra-Music-2.0.0-rust-portable.exe`** — Zero-install single executable ready to run from any folder or USB drive.
+  - **`Zentra-Music-2.0.1-x64-setup.exe`** — Standard Windows installer with Start Menu & uninstall integration.
+  - **`Zentra-Music-2.0.1-rust-portable.exe`** — Zero-install single executable ready to run from any folder or USB drive.
 - **Runtime Requirement:** Uses the built-in **Microsoft Edge WebView2 Runtime** (pre-installed on Windows 11 and most updated Windows 10 systems; automatically bootstrapped by the installer if missing).
 - **Windows SmartScreen Notice:** Because Zentra Music is an independent, self-published release without a commercial EV code-signing certificate, Windows Defender SmartScreen may display *"Windows protected your PC"* on first launch. Click **"More info"** -> **"Run anyway"** to launch safely.
 
@@ -89,10 +89,10 @@ Verify any downloaded binary against the checksum table above before running:
 
 **Windows PowerShell:**
 ```powershell
-Get-FileHash .\Zentra-Music-2.0.0-x64-setup.exe -Algorithm SHA256
+Get-FileHash .\Zentra-Music-2.0.1-x64-setup.exe -Algorithm SHA256
 ```
 
 **Linux / macOS / Git Bash:**
 ```bash
-sha256sum Zentra-v2.7.4-stable.apk Zentra-Music-2.0.0-x64-setup.exe Zentra-Music-2.0.0-rust-portable.exe
+sha256sum Zentra-v2.7.4-stable.apk Zentra-Music-2.0.1-x64-setup.exe Zentra-Music-2.0.1-rust-portable.exe
 ```
