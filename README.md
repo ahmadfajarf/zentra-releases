@@ -5,7 +5,7 @@
 **An ad-free, high-fidelity music & HD music video streaming experience built for Android and Windows Desktop.**
 
 [![Android Release](https://img.shields.io/badge/Android-v2.7.4-10B981?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ahmadfajarf/zentra-releases/releases/latest/download/Zentra-v2.7.4-stable.apk)
-[![Windows Desktop](https://img.shields.io/badge/Windows-v2.0.0-118EE9?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ahmadfajarf/zentra-releases/releases/latest/download/Zentra-Music-2.0.0-x64-setup.exe)
+[![Windows Desktop](https://img.shields.io/badge/Windows-v2.1.0-118EE9?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ahmadfajarf/zentra-releases/releases/latest/download/Zentra-Music-2.1.0-x64-setup.exe)
 [![Ad-Free](https://img.shields.io/badge/Experience-100%25%20Ad--Free-059669?style=for-the-badge)](#one-click-direct-downloads)
 [![License](https://img.shields.io/badge/License-GPL--3.0-FF2E54?style=for-the-badge)](./LICENSE)
 
@@ -20,8 +20,8 @@ All official release binaries are hosted on **[GitHub Releases](https://github.c
 | Platform | Package | Version | Direct Download Link | Size | SHA-256 Checksum |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Android Mobile** | Signed APK (`Android 8.0+`) | `v2.7.4` | [Download `Zentra-v2.7.4-stable.apk`](https://github.com/ahmadfajarf/zentra-releases/releases/latest/download/Zentra-v2.7.4-stable.apk) | `6.44 MiB` (`6,747,965` B) | `b1e15d5cf06912af53120f81c062b9765eacb3efee3b8cc7bab15091668c6930` |
-| **Windows Desktop** | Setup Installer (`64-bit`) | `v2.0.0` | [Download `Zentra-Music-2.0.0-x64-setup.exe`](https://github.com/ahmadfajarf/zentra-releases/releases/latest/download/Zentra-Music-2.0.0-x64-setup.exe) | `3.34 MiB` (`3,498,490` B) | `93fda0a3c737c77583828a60dbde110fd2a00e9bc3c8fdbfb631ed91936dd8f9` |
-| **Windows Desktop** | Standalone Portable (`64-bit`) | `v2.0.0` | [Download `Zentra-Music-2.0.0-rust-portable.exe`](https://github.com/ahmadfajarf/zentra-releases/releases/latest/download/Zentra-Music-2.0.0-rust-portable.exe) | `8.36 MiB` (`8,766,464` B) | `5cb7ca63fc1d095b043c2a2f1378b255073668744e0cd2f397112a3abf78d82d` |
+| **Windows Desktop** | Setup Installer (`64-bit`) | `v2.1.0` | [Download `Zentra-Music-2.1.0-x64-setup.exe`](https://github.com/ahmadfajarf/zentra-releases/releases/latest/download/Zentra-Music-2.1.0-x64-setup.exe) | `4.49 MiB` (`4,708,099` B) | `39ccdb807a98359b520b23ef64ebfefac23ee65e1aff3de4807547871e14f661` |
+| **Windows Desktop** | Standalone Portable (`64-bit`) | `v2.1.0` | [Download `Zentra-Music-2.1.0-portable.exe`](https://github.com/ahmadfajarf/zentra-releases/releases/latest/download/Zentra-Music-2.1.0-portable.exe) | `9.50 MiB` (`9,966,080` B) | `699586882e155aceee664ba78f887c3f2863a8c01b43b838b06a974dbf3bfa60` |
 
 ---
 
@@ -29,7 +29,7 @@ All official release binaries are hosted on **[GitHub Releases](https://github.c
 
 - **Ad-Free Music & HD Music Video Streaming:** Seamless 1-tap switching between Song and Music Video with background playback.
 - **Real-Time Synced Lyrics & Translation:** Fast multi-source synced & word-level lyrics with instant translation.
-- **Studio Audio Equalizer & Sound Enhancement:** Built-in 5-band Equalizer, Bass Boost, and 3D Spatializer.
+- **Studio Audio Equalizer & Sound Enhancement:** Built-in 5-Band Equalizer, Sub-Bass Boost, Loudness Enhancer, and Windows Dolby Atmos passthrough support.
 - **Offline Downloads & Smart Playlists:** Save songs offline, import playlists (Spotify / YouTube Music), sleep timer, and playback speed control.
 - **Music Recognition & In-App Auto-Update:** Ambient song identification and seamless 1-tap app updates.
 - **Cross-Platform Ecosystem:** Native Android app and lightweight Windows Desktop app (Setup & Portable).
@@ -44,7 +44,7 @@ All official release binaries are hosted on **[GitHub Releases](https://github.c
 3. Tap **Install** and launch **Zentra**. Future releases update automatically in-app.
 
 ### Windows (`Windows 10 / 11 64-bit`)
-- Run **`Zentra-Music-2.0.0-x64-setup.exe`** for a full Start Menu installation, or extract and launch **`Zentra-Music-2.0.0-rust-portable.exe`** anywhere with zero installation.
+- Run **`Zentra-Music-2.1.0-x64-setup.exe`** for a full Start Menu installation, or extract and launch **`Zentra-Music-2.1.0-portable.exe`** anywhere with zero installation.
 - Uses the built-in **Microsoft Edge WebView2 Runtime**. If Windows SmartScreen appears on first launch, select **More info** -> **Run anyway**.
 
 ### SHA-256 Verification
@@ -52,7 +52,7 @@ All official release binaries are hosted on **[GitHub Releases](https://github.c
 Get-FileHash .\Zentra-v2.7.4-stable.apk -Algorithm SHA256
 ```
 ```bash
-sha256sum Zentra-v2.7.4-stable.apk Zentra-Music-2.0.0-x64-setup.exe Zentra-Music-2.0.0-rust-portable.exe
+sha256sum Zentra-v2.7.4-stable.apk Zentra-Music-2.1.0-x64-setup.exe Zentra-Music-2.1.0-portable.exe
 ```
 
 ---
