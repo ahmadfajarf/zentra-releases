@@ -4,7 +4,7 @@
   "apkName": "Zentra-v2.7.4-stable.apk",
   "apkSize": 6764349,
   "sha256": "96fcef0df8e849b11b71be6cdf1caaabd37b3a059314177554682be629adef53",
-  "serviceActive": true,
+  "serviceActive": false,
   "minVersionCode": 41,
   "minDesktopVersion": "2.1.0",
   "shutdownNotice": "Layanan Zentra Music saat ini telah dihentikan sementara oleh pengembang.",
