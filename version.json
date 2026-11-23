@@ -3,7 +3,10 @@
   "versionCode": 41,
   "apkName": "Zentra-v2.7.4-stable.apk",
   "apkSize": 6764349,
-  "sha256": "975d7faa05768dea9ad43a986b0775bb5c953c26beec4c508bbfa5723be4f224",
+  "sha256": "db3f7c22192252e84d1c1bf8e4ce9516425f0091189e883b5c2c49061cc70dde",
+  "serviceActive": true,
+  "minVersionCode": 41,
+  "shutdownNotice": "Layanan Zentra Music saat ini telah dihentikan sementara oleh pengembang.",
   "downloadUrl": "https://github.com/ahmadfajarf/zentra-releases/releases/download/v2.7.4/Zentra-v2.7.4-stable.apk",
   "releaseNotes": "- Fast multi-source parallel synced & word-level lyrics with proactive next-track prefetch\n- Buttery 60/120fps frame-interpolated lyrics scrolling, focal blur, and smooth karaoke wipe\n- Global direct-access player controls (Share, Love, Playlist, Speed, Sleep Timer, Lyrics/CC, EQ/Quality, Download)\n- Redesigned capsule scrubber, rounded transport controls, and crisp obsidian+crimson launcher icon"
 }
