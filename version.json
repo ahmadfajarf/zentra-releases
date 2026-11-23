@@ -2,8 +2,8 @@
   "latestVersion": "2.7.4",
   "versionCode": 41,
   "apkName": "Zentra-v2.7.4-stable.apk",
-  "apkSize": 6764349,
-  "sha256": "99b13f685dbd10c2708170c5050b67e7a3bfe8eca09dc89c9c42852625f3ba48",
+  "apkSize": 6780733,
+  "sha256": "235beb0181821c1c51748143ec610b5f691a481c6578e640cde8e199a109873a",
   "downloadUrl": "https://github.com/ahmadfajarf/zentra-releases/releases/download/v2.7.4/Zentra-v2.7.4-stable.apk",
   "releaseNotes": "- Fast multi-source parallel synced & word-level lyrics with proactive next-track prefetch\n- Buttery 60/120fps frame-interpolated lyrics scrolling, focal blur, and smooth karaoke wipe\n- Global direct-access player controls (Share, Love, Playlist, Speed, Sleep Timer, Lyrics/CC, EQ/Quality, Download)\n- Redesigned capsule scrubber, rounded transport controls, and crisp obsidian+crimson launcher icon"
 }
