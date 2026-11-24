@@ -19,7 +19,7 @@ All official release binaries are hosted on **[GitHub Releases](https://github.c
 
 | Platform | Package | Version | Direct Download Link | Size | SHA-256 Checksum |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Android Mobile** | Signed APK (`Android 8.0+`) | `v2.7.4` | [Download `Zentra-v2.7.4-stable.apk`](https://github.com/ahmadfajarf/zentra-releases/releases/latest/download/Zentra-v2.7.4-stable.apk) | `6.53 MiB` (`6,846,537` B) | `750bb8fea59fb801f09365f108f72bc87c3a5711ea2cf00bfbe3deb52a0a3532` |
+| **Android Mobile** | Signed APK (`Android 8.0+`) | `v2.7.4` | [Download `Zentra-v2.7.4-stable.apk`](https://github.com/ahmadfajarf/zentra-releases/releases/latest/download/Zentra-v2.7.4-stable.apk) | `6.53 MiB` (`6,846,537` B) | `8ba5810fa4f78c05c597129dd89ccd64e6e26074a16f046345dffe00b7f09844` |
 | **Windows Desktop** | Setup Installer (`64-bit`) | `v2.1.0` | [Download `Zentra-Music-2.1.0-x64-setup.exe`](https://github.com/ahmadfajarf/zentra-releases/releases/latest/download/Zentra-Music-2.1.0-x64-setup.exe) | `4.59 MiB` (`4,817,586` B) | `c34e1fe8e5b51828dbeb5673bef843297225f463073f158081f787b9dcedcb0c` |
 | **Windows Desktop** | Standalone Portable (`64-bit`) | `v2.1.0` | [Download `Zentra-Music-2.1.0-portable.exe`](https://github.com/ahmadfajarf/zentra-releases/releases/latest/download/Zentra-Music-2.1.0-portable.exe) | `9.80 MiB` (`10,272,256` B) | `8faca8333c9625a832395bbad38768e888fd2f8c1fe8efc8870833915e550e31` |
 
