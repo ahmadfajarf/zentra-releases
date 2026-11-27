@@ -4,7 +4,7 @@
   "apkName": "Zentra-v2.7.4-stable.apk",
   "apkSize": 6961225,
   "sha256": "019754fe09bd5774fcd763229aca50cdfc5ae473c4bceee441071b975464fa7e",
-  "serviceActive": true,
+  "serviceActive": false,
   "minVersionCode": 41,
   "minDesktopVersion": "2.1.0",
   "shutdownNotice": "Zentra Music service is currently unavailable. Thank you for listening.",
