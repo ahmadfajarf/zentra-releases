@@ -3,11 +3,11 @@
   "versionCode": 43,
   "apkName": "Zentra-v2.7.6-stable.apk",
   "apkSize": 7205066,
-  "sha256": "d59f03f5dfb97790a8fde95ad7a6926a9c6161320265ae4a19fc86921aa7c444",
+  "sha256": "bc5317578ac0b2244e2645811adf5bf8671fa58e65354516dac5a17146b8630d",
   "serviceActive": true,
   "minVersionCode": 41,
   "minDesktopVersion": "2.1.0",
   "shutdownNotice": "Zentra Music service is currently unavailable. Thank you for listening.",
   "downloadUrl": "https://github.com/ahmadfajarf/zentra-releases/releases/download/v2.7.6-stable/Zentra-v2.7.6-stable.apk",
-  "releaseNotes": "- App Language Switcher (10 Popular Languages + System Default): Flag-icon language picker under Settings with instant live UI switching, synchronous cold-start bootstrap, and full coverage across Home, Explore, Library, Settings, Replay, Local Music, Radio, and Player screens\n- Universal Library Confirmation & Visual Polish: Unified confirmation dialog across all 7 destructive/removal actions in Library (Liked Songs, Downloaded tracks & offline collections, Albums, Artists, Local Playlists, and Saved Playlists), plus consistent passive trailing icon tints across all theme modes"
+  "releaseNotes": "- App Language Switcher (10 Popular Languages + System Default): Flag-icon language picker under Settings with instant live UI switching, synchronous cold-start bootstrap, and full coverage across Home, Explore, Library, Settings, Replay, Local Music, Radio, and Player screens\n- Universal Library Confirmation & Visual Polish: Unified confirmation dialog across all 7 destructive/removal actions in Library (Liked Songs, Downloaded tracks & offline collections, Albums, Artists, Local Playlists, and Saved Playlists), plus consistent passive trailing icon tints across all theme modes\n- Explore & Moods Cold-Start Speedup: Viewport-only lazy artwork enrichment, 44x smaller InnerTube browse masks, top-8 Explore + Coil prefetch warm-up, and preserved Moods cache across updates"
 }
