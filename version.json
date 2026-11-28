@@ -1,13 +1,13 @@
 {
-  "latestVersion": "2.7.4",
-  "versionCode": 41,
-  "apkName": "Zentra-v2.7.4-stable.apk",
-  "apkSize": 6961225,
-  "sha256": "cdc1a725548697d548f8dec93b663307b22b47b71bb56b7c089dc431f54c5589",
+  "latestVersion": "2.7.5",
+  "versionCode": 42,
+  "apkName": "Zentra-v2.7.5-stable.apk",
+  "apkSize": 7110621,
+  "sha256": "bd0ceebb4f62c57841ee3a8810c07030e4670d16cdb2a8a01f54f91d769d8de5",
   "serviceActive": true,
   "minVersionCode": 41,
   "minDesktopVersion": "2.1.0",
   "shutdownNotice": "Zentra Music service is currently unavailable. Thank you for listening.",
-  "downloadUrl": "https://github.com/ahmadfajarf/zentra-releases/releases/download/v2.7.4/Zentra-v2.7.4-stable.apk",
-  "releaseNotes": "- Fast multi-source parallel synced & word-level lyrics with proactive next-track prefetch\n- Buttery 60/120fps frame-interpolated lyrics scrolling, focal blur, and smooth karaoke wipe\n- Global direct-access player controls (Share, Love, Playlist, Speed, Sleep Timer, Lyrics/CC, EQ/Quality, Download)\n- Redesigned capsule scrubber, rounded transport controls, and crisp obsidian+crimson launcher icon"
+  "downloadUrl": "https://github.com/ahmadfajarf/zentra-releases/releases/download/v2.7.5-stable/Zentra-v2.7.5-stable.apk",
+  "releaseNotes": "- Settings & Library v2: Dedicated Settings screen, 2x2 Library Bento hub (Albums, Artists, Replay, Radio), Local Music scanner, and unbookmark action for saved YTM playlists\n- Zentra Replay: Weekly/Monthly/Yearly/All-Time stats, full-screen auto-advancing Stories, contextual 9:16 HD PNG Share/Save poster, and Top-5 expandable leaderboards\n- Live FM & Internet Radio: 4-mirror Radio Browser catalog with Indonesia regional/genre categories & Global (~50k stations) switcher, HLS + ICY live metadata, custom streams, cold-start resume hydration, and 3s+ pause live-edge resync\n- Visual & Startup Polish: Dynamic feathered duotone Moods & genres artwork and zero-flash cold-start Dark Mode bootstrap"
 }
