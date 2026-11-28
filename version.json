@@ -1,13 +1,13 @@
 {
-  "latestVersion": "2.7.5",
-  "versionCode": 42,
-  "apkName": "Zentra-v2.7.5-stable.apk",
-  "apkSize": 7110621,
-  "sha256": "bd0ceebb4f62c57841ee3a8810c07030e4670d16cdb2a8a01f54f91d769d8de5",
+  "latestVersion": "2.7.6",
+  "versionCode": 43,
+  "apkName": "Zentra-v2.7.6-stable.apk",
+  "apkSize": 7205066,
+  "sha256": "d59f03f5dfb97790a8fde95ad7a6926a9c6161320265ae4a19fc86921aa7c444",
   "serviceActive": true,
   "minVersionCode": 41,
   "minDesktopVersion": "2.1.0",
   "shutdownNotice": "Zentra Music service is currently unavailable. Thank you for listening.",
-  "downloadUrl": "https://github.com/ahmadfajarf/zentra-releases/releases/download/v2.7.5-stable/Zentra-v2.7.5-stable.apk",
-  "releaseNotes": "- Settings & Library v2: Dedicated Settings screen, 2x2 Library Bento hub (Albums, Artists, Replay, Radio), Local Music scanner, and unbookmark action for saved YTM playlists\n- Zentra Replay: Weekly/Monthly/Yearly/All-Time stats, full-screen auto-advancing Stories, contextual 9:16 HD PNG Share/Save poster, and Top-5 expandable leaderboards\n- Live FM & Internet Radio: 4-mirror Radio Browser catalog with Indonesia regional/genre categories & Global (~50k stations) switcher, HLS + ICY live metadata, custom streams, cold-start resume hydration, and 3s+ pause live-edge resync\n- Visual & Startup Polish: Dynamic feathered duotone Moods & genres artwork and zero-flash cold-start Dark Mode bootstrap"
+  "downloadUrl": "https://github.com/ahmadfajarf/zentra-releases/releases/download/v2.7.6-stable/Zentra-v2.7.6-stable.apk",
+  "releaseNotes": "- App Language Switcher (10 Popular Languages + System Default): Flag-icon language picker under Settings with instant live UI switching, synchronous cold-start bootstrap, and full coverage across Home, Explore, Library, Settings, Replay, Local Music, Radio, and Player screens\n- Universal Library Confirmation & Visual Polish: Unified confirmation dialog across all 7 destructive/removal actions in Library (Liked Songs, Downloaded tracks & offline collections, Albums, Artists, Local Playlists, and Saved Playlists), plus consistent passive trailing icon tints across all theme modes"
 }
